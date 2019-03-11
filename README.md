@@ -59,7 +59,7 @@ Telegram is a messaging app with a focus on speed and security, it’s super-fas
 
 ### Community
 * [Cutegram](http://aseman.co/en/products/cutegram/)
-* [telegram-cli](https://github.com/vysheng/tg) - Command-line client
+* [telegram-cli](https://github.com/kenorb-contrib/tg) - Command-line client
 * [TReact](https://github.com/goodmind/treact) - ReactJS frontend
 * [Unigram](https://github.com/UnigramDev/Unigram) - Telegram for the Windows 10 platform
 * [Deepthought](https://github.com/rubenlagus/Deepthought) - Telegram Client written in Java to support multiple custom implementations
