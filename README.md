@@ -59,7 +59,8 @@ Telegram is a messaging app with a focus on speed and security, it’s super-fas
 
 ### Community
 * [Cutegram](http://aseman.co/en/products/cutegram/)
-* [telegram-cli](https://github.com/kenorb-contrib/tg) - Command-line client
+* [telegram-cli](https://github.com/vysheng/tg) - Command-line client (unmantained since 2016) 
+     * [kenorb-contrib/tg](kenorb-contrib/tg) - Fork, with recent patches
 * [TReact](https://github.com/goodmind/treact) - ReactJS frontend
 * [Unigram](https://github.com/UnigramDev/Unigram) - Telegram for the Windows 10 platform
 * [Deepthought](https://github.com/rubenlagus/Deepthought) - Telegram Client written in Java to support multiple custom implementations
@@ -71,7 +72,8 @@ Telegram is a messaging app with a focus on speed and security, it’s super-fas
 * [MadelineProto](https://github.com/danog/MadelineProto) - `PHP`
 * [mtproto2json](https://github.com/nikat/mtproto2json) - `Python` MTProto/JSON proxy server
 * [Pyrogram](https://github.com/pyrogram/pyrogram) - `Python` Telegram MTProto API Client Library for Python
-* [telegram-cli](https://github.com/vysheng/tg) - `C` with Lua and Python support
+* [telegram-cli](https://github.com/vysheng/tg) - `C` with Lua and Python support (unmantained since 2016) 
+     * [kenorb-contrib/tg](kenorb-contrib/tg) - Fork, with recent patches
 * [telegram-mtproto](https://github.com/zerobias/telegram-mtproto) - `JavaScript`
 * [telegram-purple](https://github.com/majn/telegram-purple) - `C` libpurple protocol plugin
 * [Telethon](https://github.com/LonamiWebs/Telethon) - `Python`
